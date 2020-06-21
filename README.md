@@ -1,2 +1,2 @@
 # dockser-compose-visits
-Implementation running more than one container using docker-compose
+Implementation running more than one containers using docker-compose
